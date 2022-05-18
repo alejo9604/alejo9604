@@ -7,7 +7,7 @@ I’m a Game Developer and a Platforms game lover!
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://www.alejoalvarez.me/)](http://www.alejoalvarez.me/)
 
 ### About me 
-- 💻 I’m currently working as Software Engineer and been working mainly with Unity for almost 6 years now!
+- 💻 I’m currently working as Software Engineer and been working with Unity for almost 6 years now!
 - 💡 I'm interesting on learning more about Shaders... and also about DevOps ¯\_(ツ)_/¯
 - 👾 And of course, want to develop some cool games ideas!
 
